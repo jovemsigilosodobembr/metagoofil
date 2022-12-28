@@ -5,6 +5,12 @@
 *cmartorella@edge-security.com      *
 *************************************
 
+# como usar!!
+
+```
+metagoofil.py   -d https://www.gov.br/ -t pdf 200 -n 20 -o pasta -f
+```
+
 
 What is this?
 -------------
